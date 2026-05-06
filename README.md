@@ -162,10 +162,11 @@ Continuously learning and improving through hands-on projects and real-world use
       </td>
       <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Gemini"/><br>Gemini
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=copilot" width="50" height="50" alt="GitHub Copilot"/><br>Copilot
-      </td>
+<td align="center">
+  <img src="https://img.icons8.com/color/50/microsoft-copilot.png" width="50" height="50" alt="Copilot"/><br>Copilot
+</td>
+</td>
+</td>
     </tr>
   </tbody>
 </table>
