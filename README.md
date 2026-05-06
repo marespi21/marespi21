@@ -163,7 +163,7 @@ Continuously learning and improving through hands-on projects and real-world use
       <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Gemini"/><br>Gemini
 <td align="center">
-  <img src="https://img.icons8.com/color/50/microsoft-copilot.png" width="50" height="50" alt="Copilot"/><br>Copilot
+  <img src="https://github.com/microsoft/vscode/raw/main/resources/win32/code.ico" width="50" height="50" alt="Copilot"/><br>Copilot
 </td>
 </td>
 </td>
